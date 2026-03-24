@@ -1,0 +1,4 @@
+2026-03-23 15:48:35,288 - INFO - Mock Request: BTCUSDT BUY MARKET 0.001 None
+2026-03-23 15:48:35,289 - INFO - Mock Response: {'orderId': 157612, 'status': 'FILLED', 'executedQty': 0.001, 'avgPrice': 'market_price'}
+2026-03-23 15:48:58,599 - INFO - Mock Request: BTCUSDT SELL LIMIT 0.001 60000.0
+2026-03-23 15:48:58,599 - INFO - Mock Response: {'orderId': 532507, 'status': 'NEW', 'executedQty': 0, 'avgPrice': 60000.0}
